@@ -30,6 +30,8 @@
               <mainClass>com.mycompany.app.App</mainClass>
             </manifest>
           </archive>
+          <webxml>web/WEB-INF/web.xml</webxml>          
+          <warname>eno-spring-web</warname>
         </configuration>
       </plugin>
     </plugins>
